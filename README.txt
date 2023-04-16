@@ -1,4 +1,14 @@
-Acknowledgements:
+## Instructions
+
+```
+make
+```
+then execute the shell:
+```
+./shell379
+```
+
+## Acknowledgements
 
 the following sources helped me with the algorithm regarding
 sending a signal to destroy child processes that are zombies:
